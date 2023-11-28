@@ -5,3 +5,4 @@ plotly
 streamlit-aggrid
 streamlit-echarts
 openpyxl
+Pillow
